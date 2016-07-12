@@ -12,7 +12,7 @@
     'data': ['templates.xml',
              'security/show_fields_security.xml',
              'security/ir.model.access.csv'],
-    'price': 166.99,
+    'price': 129.99,
     'currency': 'EUR',
     'installable': True,
     'auto_install': False,
